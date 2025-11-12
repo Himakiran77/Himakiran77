@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Designed and Developed **LegalApp, CircleApp, AstroNarad App**
-
 - 👯 I’m looking to collaborate on **Frontend and React-Native Roles**
 
 - 👨‍💻 All of my projects are available at [https://himakiranmudambi.vercel.app/](https://himakiranmudambi.vercel.app/)
