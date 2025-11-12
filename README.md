@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend and React-Native Roles**
 
-- 👨‍💻 All of my projects are available at [https://mudambihimakiran.vercel.app/](https://mudambihimakiran.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://himakiranmudambi.vercel.app/](https://himakiranmudambi.vercel.app/)
 
 - 💬 Ask me about **Html, css, Javascript, React, React-Native, Python**
 
