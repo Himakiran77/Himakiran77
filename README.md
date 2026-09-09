@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **himakiranmudambi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LvVQFauaJI1oUIpYoOeh2vMqIOUOvh8L/view](https://drive.google.com/file/d/1ZhwoEHcjRmW3w6x21ezYd64HGps-ztHq/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LvVQFauaJI1oUIpYoOeh2vMqIOUOvh8L/view](https://drive.google.com/file/d/1XuEvLbIQYsG5DNCn_CYxhJxejfVT3NrT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
